@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "trials:bolt_template",
+    "trials:flow_template"
+  ]
+}

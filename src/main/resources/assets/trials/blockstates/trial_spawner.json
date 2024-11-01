@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "trials_active=true,trials_ejecting=true,trials_cursed=true": {
+      "model": "trials:block/trial_spawner_ejecting_cursed"
+    },
+    "trials_active=true,trials_ejecting=true,trials_cursed=false": {
+      "model": "trials:block/trial_spawner_ejecting"
+    },
+    "trials_active=true,trials_ejecting=false,trials_cursed=true": {
+      "model": "trials:block/trial_spawner_active_cursed"
+    },
+    "trials_active=true,trials_ejecting=false,trials_cursed=false": {
+      "model": "trials:block/trial_spawner_active"
+    },
+    "trials_active=false,trials_ejecting=false,trials_cursed=false": {
+      "model": "trials:block/trial_spawner_inactive"
+    }
+  }
+}

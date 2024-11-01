@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trials:block/trial_spawner_bottom",
+    "up": "trials:block/trial_spawner_top_cursed",
+    "north": "trials:block/trial_spawner_side_cursed",
+    "east": "trials:block/trial_spawner_side_cursed",
+    "south": "trials:block/trial_spawner_side_cursed",
+    "west": "trials:block/trial_spawner_side_cursed",
+    "particle": "trials:block/trial_spawner_bottom"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "trials:trial_spawner",
+    "trials:trial_vault",
+    "trials:trial_vault_ominous"
+  ]
+}

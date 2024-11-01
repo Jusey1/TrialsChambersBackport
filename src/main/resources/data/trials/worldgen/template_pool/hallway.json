@@ -1,0 +1,33 @@
+{
+  "name": "trials:hallways",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 21,
+      "element": {
+        "location": "trials:hallways/hallway_long",
+        "processors": "trials:generic",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "location": "trials:hallways/hallway_small",
+        "processors": "trials:generic",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "trials:hallways/hallway_caved",
+        "processors": "trials:generic",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

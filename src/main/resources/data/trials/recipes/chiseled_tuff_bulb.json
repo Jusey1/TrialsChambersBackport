@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "trials:polished_tuff"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "G": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#G#",
+    " R "
+  ],
+  "result": {
+    "count": 4,
+    "item": "trials:chiseled_tuff_bulb"
+  }
+}

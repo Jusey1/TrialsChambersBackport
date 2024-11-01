@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "trials:block/crafter_bottom",
+    "up": "trials:block/crafter_top_crafting",
+    "north": "trials:block/crafter_north_crafting",
+    "south": "trials:block/crafter_south_triggered",
+    "west": "trials:block/crafter_west_crafting",
+    "east": "trials:block/crafter_east_crafting",
+    "particle": "#north"
+  }
+}

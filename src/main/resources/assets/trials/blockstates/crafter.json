@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,triggered=false,trials_crafting=false": {
+      "model": "trials:block/crafter",
+      "y": 90
+    },
+    "facing=north,triggered=false,trials_crafting=false": {
+      "model": "trials:block/crafter"
+    },
+    "facing=south,triggered=false,trials_crafting=false": {
+      "model": "trials:block/crafter",
+      "y": 180
+    },
+    "facing=west,triggered=false,trials_crafting=false": {
+      "model": "trials:block/crafter",
+      "y": 270
+    },
+    "facing=east,triggered=true,trials_crafting=false": {
+      "model": "trials:block/crafter_triggered",
+      "y": 90
+    },
+    "facing=north,triggered=true,trials_crafting=false": {
+      "model": "trials:block/crafter_triggered"
+    },
+    "facing=south,triggered=true,trials_crafting=false": {
+      "model": "trials:block/crafter_triggered",
+      "y": 180
+    },
+    "facing=west,triggered=true,trials_crafting=false": {
+      "model": "trials:block/crafter_triggered",
+      "y": 270
+    },
+    "facing=east,triggered=true,trials_crafting=true": {
+      "model": "trials:block/crafter_crafting",
+      "y": 90
+    },
+    "facing=north,triggered=true,trials_crafting=true": {
+      "model": "trials:block/crafter_crafting"
+    },
+    "facing=south,triggered=true,trials_crafting=true": {
+      "model": "trials:block/crafter_crafting",
+      "y": 180
+    },
+    "facing=west,triggered=true,trials_crafting=true": {
+      "model": "trials:block/crafter_crafting",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "lit=true,powered=true": {
+      "model": "trials:block/chiseled_tuff_bulb_lit_powered"
+    },
+    "lit=true,powered=false": {
+      "model": "trials:block/chiseled_tuff_bulb_lit"
+    },
+    "lit=false,powered=false": {
+      "model": "trials:block/chiseled_tuff_bulb"
+    },
+    "lit=false,powered=true": {
+      "model": "trials:block/chiseled_tuff_bulb_powered"
+    }
+  }
+}

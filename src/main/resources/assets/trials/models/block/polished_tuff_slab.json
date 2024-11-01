@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "trials:block/polished_tuff",
+    "side": "trials:block/polished_tuff",
+    "top": "trials:block/polished_tuff"
+  }
+}

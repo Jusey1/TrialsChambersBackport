@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "R": {
+      "item": "trials:breeze_rod"
+    }
+  },
+  "pattern": [
+    "R"
+  ],
+  "result": {
+    "count": 4,
+    "item": "trials:wind_charge"
+  }
+}

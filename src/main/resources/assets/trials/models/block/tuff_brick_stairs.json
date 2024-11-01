@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "trials:block/tuff_bricks",
+    "side": "trials:block/tuff_bricks",
+    "top": "trials:block/tuff_bricks"
+  }
+}

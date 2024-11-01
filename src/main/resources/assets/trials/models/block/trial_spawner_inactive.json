@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trials:block/trial_spawner_bottom",
+    "up": "trials:block/trial_spawner_top_inactive",
+    "north": "trials:block/trial_spawner_side_inactive",
+    "east": "trials:block/trial_spawner_side_inactive",
+    "south": "trials:block/trial_spawner_side_inactive",
+    "west": "trials:block/trial_spawner_side_inactive",
+    "particle": "trials:block/trial_spawner_bottom"
+  },
+  "render_type": "cutout"
+}

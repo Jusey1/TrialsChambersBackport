@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "trials:block/copper_door_bottom_oxidized",
+    "top": "trials:block/copper_door_top_oxidized"
+  },
+  "render_type": "cutout"
+}

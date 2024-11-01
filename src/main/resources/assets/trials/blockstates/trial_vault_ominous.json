@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "trials_active=true,trials_ejecting=true": {
+      "model": "trials:block/vault_block_eject_ominous"
+    },
+    "trials_active=true,trials_ejecting=false": {
+      "model": "trials:block/vault_block_on_ominous"
+    },
+    "trials_active=false,trials_ejecting=false": {
+      "model": "trials:block/vault_block_off_ominous"
+    }
+  }
+}

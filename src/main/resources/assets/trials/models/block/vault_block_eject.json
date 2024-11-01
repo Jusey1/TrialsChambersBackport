@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "trials:block/vault_bottom",
+    "up": "trials:block/vault_top_ejecting",
+    "north": "trials:block/vault_side_on",
+    "east": "trials:block/vault_side_on",
+    "south": "trials:block/vault_side_on",
+    "west": "trials:block/vault_side_on",
+    "particle": "trials:block/vault_top"
+  },
+  "render_type": "cutout"
+}

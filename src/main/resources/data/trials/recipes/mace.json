@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "R": {
+      "item": "trials:breeze_rod"
+    },
+    "H": {
+      "item": "trials:heavy_core"
+    }
+  },
+  "pattern": [
+    "RH"
+  ],
+  "result": {
+    "count": 1,
+    "item": "trials:mace"
+  }
+}

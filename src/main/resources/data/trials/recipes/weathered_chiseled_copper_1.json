@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:weathered_copper"
+  },
+  "result": "trials:chiseled_copper_weathered",
+  "count": 4
+}

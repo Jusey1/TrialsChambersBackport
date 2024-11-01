@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="trials"
+version="2.3.0"
+displayName="Trials Chambers"
+displayURL="https://discord.gg/qGTuwEMgpT"
+credits="Mojang"
+authors="Jusey1"
+description="1.20.1 Backport  of Trials Chambers."
+
+[[dependencies.trials]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/door_top_left",
+  "textures": {
+    "bottom": "trials:block/copper_door_bottom_weathered",
+    "top": "trials:block/copper_door_top_weathered"
+  },
+  "render_type": "cutout"
+}

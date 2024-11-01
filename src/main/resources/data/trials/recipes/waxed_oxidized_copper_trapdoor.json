@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "building",
+    "ingredients": [
+        {
+            "item": "trials:copper_trapdoor_oxidized"
+        },
+        {
+            "item": "minecraft:honeycomb"
+        }
+    ],
+    "result": {
+        "item": "trials:waxed_copper_trapdoor_oxidized",
+        "count": 1
+    }
+}

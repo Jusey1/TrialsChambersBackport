@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:zombie",
+    "minecraft:husk",
+    "minecraft:drowned",
+    "minecraft:skeleton",
+    "minecraft:stray",
+    "trials:bogged",
+    {
+      "id": "#forge:kobolds",
+      "required": false
+    }
+  ]
+}

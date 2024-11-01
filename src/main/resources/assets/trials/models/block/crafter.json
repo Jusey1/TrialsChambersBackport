@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "trials:block/crafter_bottom",
+    "up": "trials:block/crafter_top",
+    "north": "trials:block/crafter_north",
+    "south": "trials:block/crafter_south",
+    "west": "trials:block/crafter_west",
+    "east": "trials:block/crafter_east",
+    "particle": "#north"
+  },
+  "render_type": "solid"
+}
